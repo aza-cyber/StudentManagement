@@ -12,7 +12,7 @@ It demonstrates:
 
 
 
-##  Features
+Features
 
 * User Authentication (Login)
 * Add a student
@@ -226,7 +226,7 @@ The screen recording demonstrates:
 
 
 
-## Conclusion
+Conclusion
 
 This project demonstrates my understanding of:
 
@@ -238,7 +238,7 @@ This project demonstrates my understanding of:
 
 
 
-## Author
+ Author
 
 **Name:** Azigard
 **Task:** Tanzanite Skills Academy – Full-Stack JavaScript Developer Task
