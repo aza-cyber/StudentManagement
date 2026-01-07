@@ -1,6 +1,6 @@
 # Student Management System
 
-This project is a **simple full-stack Student Management System** built as part of the **Tanzanite Skills Academy Full-Stack JavaScript Developer Task**.
+This project is a **simple full stack Student Management System** built as part of the **Tanzanite Skills Academy Full-Stack JavaScript Developer Task**.
 
 It demonstrates:
 
