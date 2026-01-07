@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #011802;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 500px;
+  margin: 40px auto;
+  background: rgb(7, 131, 148);
+  padding: 20px;
+  border-radius: 6px;
+  box-shadow: 0 0 10px rgba(20, 20, 1, 0.1);
+}
+
+h2, h3 {
+  text-align: center;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin: 6px 0;
+}
+
+button {
+  padding: 8px 12px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.student {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 8px;
+}
