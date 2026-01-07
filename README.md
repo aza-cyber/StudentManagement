@@ -201,13 +201,13 @@ API Endpoints
 
 Auth
 
-* `POST /api/auth/login`
+ `POST /api/auth/login`
 
 Students (Protected)
 
-* `GET /api/students`
-* `POST /api/students`
-* `DELETE /api/students/:id`
+ `GET /api/students`
+ `POST /api/students`
+ `DELETE /api/students/:id`
 
 
 
