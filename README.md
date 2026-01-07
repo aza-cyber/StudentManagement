@@ -189,7 +189,7 @@ http://localhost:3000
 ```
 
 
-## Authentication Flow
+ Authentication Flow
 
 * User logs in using username & password
 * Backend returns a JWT token
@@ -197,14 +197,13 @@ http://localhost:3000
 * Axios automatically sends token for protected requests
 
 
+API Endpoints
 
-##  API Endpoints
-
-### Auth
+Auth
 
 * `POST /api/auth/login`
 
-### Students (Protected)
+Students (Protected)
 
 * `GET /api/students`
 * `POST /api/students`
@@ -212,7 +211,7 @@ http://localhost:3000
 
 
 
-##  Screen Recording Demonstration
+Screen Recording Demonstration
 
 The screen recording demonstrates:
 
@@ -240,8 +239,8 @@ This project demonstrates my understanding of:
 
  Author
 
-**Name:** Azigard
-**Task:** Tanzanite Skills Academy – Full-Stack JavaScript Developer Task
+Name: Azigard
+Task:Tanzanite Skills Academy – Full-Stack JavaScript Developer Task
 
 
 
